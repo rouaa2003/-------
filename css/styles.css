@@ -97,5 +97,5 @@ button:hover {
 
 button:active {
     background-color: #9c9c9c; /* تغيير لون الزر عند الضغط عليه */
-    color: #ffffff;
+    color: white;
 }
